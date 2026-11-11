@@ -1,0 +1,144 @@
+{
+  "per_answer": [
+    {
+      "answer_id": "q0_rag",
+      "context_relevance": 5,
+      "groundedness": 5,
+      "answer_relevance": 5,
+      "comment": "Accurately answers the question using provided context detailing Euroization and monetary policy constraints.",
+      "pipeline": "RAG (single query)"
+    },
+    {
+      "answer_id": "q0_multiquery",
+      "context_relevance": 5,
+      "groundedness": 5,
+      "answer_relevance": 4,
+      "comment": "Directly supported by text, though it omits explicitly naming the euro as the currency.",
+      "pipeline": "RAG (multi-query)"
+    },
+    {
+      "answer_id": "q0_closedbook",
+      "context_relevance": 5,
+      "groundedness": 2,
+      "answer_relevance": 5,
+      "comment": "Includes ungrounded claims about EU monetary agreement and ECB policy setting rates.",
+      "pipeline": "Closed-book"
+    },
+    {
+      "answer_id": "q1_rag",
+      "context_relevance": 4,
+      "groundedness": 5,
+      "answer_relevance": 5,
+      "comment": "Correctly identifies missing NPL change details while accurately listing staff recommendations from context.",
+      "pipeline": "RAG (single query)"
+    },
+    {
+      "answer_id": "q1_multiquery",
+      "context_relevance": 4,
+      "groundedness": 5,
+      "answer_relevance": 1,
+      "comment": "Incorrectly states DATA NOT FOUND despite context containing extensive recommendations for banks.",
+      "pipeline": "RAG (multi-query)"
+    },
+    {
+      "answer_id": "q1_closedbook",
+      "context_relevance": 4,
+      "groundedness": 1,
+      "answer_relevance": 5,
+      "comment": "Contains hallucinated details about NPL removal not present in provided context.",
+      "pipeline": "Closed-book"
+    },
+    {
+      "answer_id": "q2_rag",
+      "context_relevance": 5,
+      "groundedness": 5,
+      "answer_relevance": 5,
+      "comment": "Fully supported by context and answers both fiscal consolidation and VAT reform aspects.",
+      "pipeline": "RAG (single query)"
+    },
+    {
+      "answer_id": "q2_multiquery",
+      "context_relevance": 5,
+      "groundedness": 5,
+      "answer_relevance": 5,
+      "comment": "Fully grounded and directly answers the question.",
+      "pipeline": "RAG (multi-query)"
+    },
+    {
+      "answer_id": "q2_closedbook",
+      "context_relevance": 5,
+      "groundedness": 3,
+      "answer_relevance": 5,
+      "comment": "Mostly relevant but includes ungrounded phrases like regional standards alignment.",
+      "pipeline": "Closed-book"
+    },
+    {
+      "answer_id": "q3_rag",
+      "context_relevance": 5,
+      "groundedness": 5,
+      "answer_relevance": 5,
+      "comment": "Accurately reflects baseline debt outlook projection relative to 60 percent of GDP.",
+      "pipeline": "RAG (single query)"
+    },
+    {
+      "answer_id": "q3_multiquery",
+      "context_relevance": 5,
+      "groundedness": 5,
+      "answer_relevance": 5,
+      "comment": "Fully grounded in context projection.",
+      "pipeline": "RAG (multi-query)"
+    },
+    {
+      "answer_id": "q3_closedbook",
+      "context_relevance": 5,
+      "groundedness": 2,
+      "answer_relevance": 4,
+      "comment": "Contradicts context by asserting debt stays well above 60 percent over medium term.",
+      "pipeline": "Closed-book"
+    },
+    {
+      "answer_id": "q4_rag",
+      "context_relevance": 1,
+      "groundedness": 5,
+      "answer_relevance": 5,
+      "comment": "Context is irrelevant to Bitcoin; DATA NOT FOUND is the correct response.",
+      "pipeline": "RAG (single query)"
+    },
+    {
+      "answer_id": "q4_multiquery",
+      "context_relevance": 1,
+      "groundedness": 5,
+      "answer_relevance": 5,
+      "comment": "Context is irrelevant to Bitcoin; DATA NOT FOUND is correct.",
+      "pipeline": "RAG (multi-query)"
+    },
+    {
+      "answer_id": "q4_closedbook",
+      "context_relevance": 1,
+      "groundedness": 5,
+      "answer_relevance": 5,
+      "comment": "Correctly states the report does not provide a Bitcoin forecast.",
+      "pipeline": "Closed-book"
+    }
+  ],
+  "average": [
+    {
+      "pipeline": "Closed-book",
+      "context_relevance": 4.0,
+      "groundedness": 2.6,
+      "answer_relevance": 4.8
+    },
+    {
+      "pipeline": "RAG (multi-query)",
+      "context_relevance": 4.0,
+      "groundedness": 5.0,
+      "answer_relevance": 4.0
+    },
+    {
+      "pipeline": "RAG (single query)",
+      "context_relevance": 4.0,
+      "groundedness": 5.0,
+      "answer_relevance": 5.0
+    }
+  ]
+}

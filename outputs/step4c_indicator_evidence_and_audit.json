@@ -1,0 +1,92 @@
+{
+  "evidence": {
+    "country_name": "San Marino",
+    "gdp_growth_forecast_pct": {
+      "value": 0.7,
+      "period": "2024",
+      "quote": "Real GDP (percent change) -6.8 14.2 7.9 0.4 0.7 1.3 1.2 1.1 1.3 1.3",
+      "note": "Staff projection of real GDP growth for 2024 from Selected Economic and Social Indicators table."
+    },
+    "headline_inflation_rate_pct": {
+      "value": 1.3,
+      "period": "2024",
+      "quote": "Inflation rate (average; percent) -0.1 2.1 5.3 5.9 1.3 2.0 2.0 2.0 2.0 2.0",
+      "note": "Staff projection of average inflation for 2024 from Selected Economic and Social Indicators table."
+    },
+    "central_bank_policy_rate_pct": {
+      "value": null,
+      "period": "",
+      "quote": "",
+      "note": "San Marino uses the euro as its official currency and has no independent monetary policy rate."
+    },
+    "non_performing_loan_ratio": {
+      "value": 21.0,
+      "period": "2023",
+      "quote": "NPL ratio 3/ 61.1 59.0 53.1 21.0 … … … … … …",
+      "note": "Latest actual non-performing loan ratio for 2023 from Selected Economic and Social Indicators table."
+    },
+    "unemployment_rate_pct": {
+      "value": 3.9,
+      "period": "2023",
+      "quote": "Unemployment rate (average; percent) 7.3 5.2 4.6 3.9 3.9 3.9 3.9 3.9 3.9 3.9",
+      "note": "Latest actual average unemployment rate for 2023 from Selected Economic and Social Indicators table."
+    },
+    "tier_1_capital_ratio": {
+      "value": null,
+      "period": "",
+      "quote": "",
+      "note": "Only regulatory capital to risk-weighted assets is reported, not Tier 1 capital specifically."
+    }
+  },
+  "fallbacks": [
+    {
+      "field": "central_bank_policy_rate_pct",
+      "reason": "San Marino uses the euro as its official currency and has no independent monetary policy rate."
+    },
+    {
+      "field": "tier_1_capital_ratio",
+      "reason": "Only regulatory capital to risk-weighted assets is reported, not Tier 1 capital specifically."
+    }
+  ],
+  "audit": {
+    "verdicts": [
+      {
+        "field": "gdp_growth_forecast_pct",
+        "verdict": "correct",
+        "value_in_report": 0.7,
+        "comment": "The extracted value matches the staff projection of real GDP growth for 2024 reported in the Selected Economic and Social Indicators table."
+      },
+      {
+        "field": "headline_inflation_rate_pct",
+        "verdict": "correct",
+        "value_in_report": 1.3,
+        "comment": "The extracted value matches the staff projection for average headline inflation in 2024 reported in the Selected Economic and Social Indicators table."
+      },
+      {
+        "field": "central_bank_policy_rate_pct",
+        "verdict": "correct",
+        "value_in_report": null,
+        "comment": "San Marino uses the euro as its currency and has no independent monetary policy rate. Returning null with an explanation is correct according to the instructions."
+      },
+      {
+        "field": "non_performing_loan_ratio",
+        "verdict": "correct",
+        "value_in_report": 21.0,
+        "comment": "The extracted value matches the latest actual NPL ratio for 2023 reported in the Financial Soundness Indicators table."
+      },
+      {
+        "field": "unemployment_rate_pct",
+        "verdict": "correct",
+        "value_in_report": 3.9,
+        "comment": "The extracted value matches the latest reported actual average unemployment rate for 2023 in the report table."
+      },
+      {
+        "field": "tier_1_capital_ratio",
+        "verdict": "correct",
+        "value_in_report": null,
+        "comment": "The report only provides the total regulatory capital to risk-weighted assets ratio (16.7 percent in 2023), not the Tier 1 capital ratio specifically. Returning null with an explanation is correct according to instructions."
+      }
+    ],
+    "overall_score": 100
+  }
+}

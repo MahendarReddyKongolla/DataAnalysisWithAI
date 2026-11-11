@@ -1,0 +1,86 @@
+[
+  {
+    "type": "strength",
+    "label": "Economic Resilience and Stabilization",
+    "why_it_matters": "The economy has successfully absorbed adverse regional shocks through solid service sector performance.",
+    "quote": "San Marino’s economy has remained resilient, with economic activity stabilizing at high levels and record employment, despite the regional slowdown and high interest rates.",
+    "quote_match": 1.0
+  },
+  {
+    "type": "strength",
+    "label": "Stronger-than-Expected Fiscal Position",
+    "why_it_matters": "Prudent fiscal management has successfully preserved cyclical revenues and maintained a strong primary balance.",
+    "quote": "The fiscal position is stronger than expected. The government has saved the cyclical tax revenues, kept expenditures in check, and achieved strong primary balance in 2023.",
+    "quote_match": 1.0
+  },
+  {
+    "type": "strength",
+    "label": "Improved Banking Sector Liquidity",
+    "why_it_matters": "Higher interest rates and extended deposit maturities have boosted banks' liquidity and reported profitability.",
+    "quote": "On the financial sector, banks’ liquidity and reported profits improved in 2023, while the NPL securitization and asset management company have progressed as expected.",
+    "quote_match": 1.0
+  },
+  {
+    "type": "strength",
+    "label": "Robust Employment and Low Unemployment",
+    "why_it_matters": "The dynamic service sector has offset manufacturing slowdowns, keeping employment robust and unemployment low.",
+    "quote": "Strong services performance kept employment growing at a robust pace even as manufacturing activity slowed. The unemployment rate remains low, despite edging up slightly from 3¾ in mid-2023 to 4½ percent in August 2024.",
+    "quote_match": 1.0
+  },
+  {
+    "type": "strength",
+    "label": "Substantial Reduction in Nonperforming Loans",
+    "why_it_matters": "Asset management company securitization and large write-offs have drastically lowered problem loans on balance sheets.",
+    "quote": "The write-off of a large NPL position and AMC securitization have reduced the NPL ratio from 53 to 21 percent.",
+    "quote_match": 1.0
+  },
+  {
+    "type": "strength",
+    "label": "Declining Inflation Rates",
+    "why_it_matters": "Inflation has decelerated significantly following regional trends, alleviating pressure on household purchasing power.",
+    "quote": "Inflation has declined to below two percent and it is expected to remain at low levels.",
+    "quote_match": 1.0
+  },
+  {
+    "type": "vulnerability",
+    "label": "High Public Debt Burden",
+    "why_it_matters": "Legacy public debt from financial bailouts remains significantly elevated above the medium-term 60 percent target.",
+    "quote": "The debt-to-GDP ratio continued its decline but remains significantly above the medium-term target of 60 percent.",
+    "quote_match": 1.0
+  },
+  {
+    "type": "vulnerability",
+    "label": "Banking Sector Structural Inefficiencies",
+    "why_it_matters": "High operational costs, extensive branch networks, and low income-generating assets continue to drag down structural profitability.",
+    "quote": "Most banks’ profitability remains significantly lower than that of regional peers, primarily due to high operational costs associated with a large number of branches and a low ratio of income-generating assets per employee.",
+    "quote_match": 1.0
+  },
+  {
+    "type": "vulnerability",
+    "label": "High External Demand Volatility",
+    "why_it_matters": "As a small open economy, San Marino remains highly vulnerable to external slowdowns and tightening global conditions.",
+    "quote": "Downside risks stem from lingering weakness in external demand, tighter than expected global monetary conditions, and remaining vulnerabilities in the domestic financial sector.",
+    "quote_match": 1.0
+  },
+  {
+    "type": "vulnerability",
+    "label": "Demographic Pressures on Pension Sustainability",
+    "why_it_matters": "Generous benefits, low early retirement penalties, and an aging population will increase long-term pension deficits.",
+    "quote": "Long-term demographic challenges will require additional parametric pension recalibration within the next decade. The generous benefits and low penalties for early retirement that undermine sustainability still need to be addressed.",
+    "quote_match": 1.0
+  },
+  {
+    "type": "vulnerability",
+    "label": "Substantial Refinancing Risks in 2027",
+    "why_it_matters": "A large Eurobond amortization scheduled for 2027 creates a sharp spike in gross financing needs.",
+    "quote": "To smooth the Eurobond amortization in 2027, the authorities should consider liability management operations, including smaller international issuances with longer maturities.",
+    "quote_match": 1.0
+  },
+  {
+    "type": "vulnerability",
+    "label": "Tight Capitalization and Legacy Loss Recognition",
+    "why_it_matters": "Delayed loss recognition from securitizations and calendar provisioning pose potential risks to bank capital buffers.",
+    "quote": "Nevertheless, with limited income-generating assets, high operating costs, and tight capitalization in some banks, the financial sector remains vulnerable.",
+    "quote_match": 1.0
+  }
+]

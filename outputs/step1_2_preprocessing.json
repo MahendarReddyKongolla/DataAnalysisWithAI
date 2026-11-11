@@ -1,0 +1,130 @@
+{
+  "sections": [
+    {
+      "id": 0,
+      "title": "Press Release and Selected Indicators",
+      "first_page": 1,
+      "last_page": 11,
+      "words": 2829
+    },
+    {
+      "id": 1,
+      "title": "CONTEXT: A UNIQUE OPPORTUNITY FOR REFORMS",
+      "first_page": 12,
+      "last_page": 13,
+      "words": 555
+    },
+    {
+      "id": 2,
+      "title": "RECENT DEVELOPMENTS",
+      "first_page": 13,
+      "last_page": 18,
+      "words": 1920
+    },
+    {
+      "id": 3,
+      "title": "OUTLOOK AND RISKS",
+      "first_page": 18,
+      "last_page": 19,
+      "words": 671
+    },
+    {
+      "id": 4,
+      "title": "POLICY AGENDA: STRENGTHENING THE FRAMEWORK TO COPE WITH SHOCKS — A. Strengthening the Fiscal Position",
+      "first_page": 19,
+      "last_page": 23,
+      "words": 1547
+    },
+    {
+      "id": 5,
+      "title": "B. Finalizing the Banking Reform to Safeguard Stability",
+      "first_page": 23,
+      "last_page": 25,
+      "words": 1140
+    },
+    {
+      "id": 6,
+      "title": "C. Implement Structural Reforms to Support Broad-Based Growth",
+      "first_page": 25,
+      "last_page": 27,
+      "words": 835
+    },
+    {
+      "id": 7,
+      "title": "STAFF APPRAISAL",
+      "first_page": 27,
+      "last_page": 29,
+      "words": 973
+    },
+    {
+      "id": 8,
+      "title": "Figures and Tables",
+      "first_page": 29,
+      "last_page": 39,
+      "words": 3658
+    },
+    {
+      "id": 9,
+      "title": "I. Risk Assessment Matrix",
+      "first_page": 39,
+      "last_page": 40,
+      "words": 600
+    },
+    {
+      "id": 10,
+      "title": "II. Authorities’ Response to Past IMF Recommendations",
+      "first_page": 40,
+      "last_page": 41,
+      "words": 311
+    },
+    {
+      "id": 11,
+      "title": "III. External Sector Assessment",
+      "first_page": 41,
+      "last_page": 45,
+      "words": 1581
+    },
+    {
+      "id": 12,
+      "title": "IV. Sovereign Risk and Debt Sustainability Assessment",
+      "first_page": 45,
+      "last_page": 59,
+      "words": 5539
+    },
+    {
+      "id": 13,
+      "title": "V. San Marino Asset Management Company",
+      "first_page": 59,
+      "last_page": 60,
+      "words": 459
+    },
+    {
+      "id": 14,
+      "title": "VI. Implementation of the VAT in San Marino: Insights from Recent FAD TA Report",
+      "first_page": 60,
+      "last_page": 65,
+      "words": 1802
+    },
+    {
+      "id": 15,
+      "title": "VII. Data Issues",
+      "first_page": 65,
+      "last_page": 68,
+      "words": 1230
+    },
+    {
+      "id": 16,
+      "title": "Informational Annex",
+      "first_page": 68,
+      "last_page": 70,
+      "words": 491
+    }
+  ],
+  "chunks": {
+    "chunks": 116,
+    "mean_tokens": 409.8,
+    "min_tokens": 189,
+    "max_tokens": 531,
+    "share_300_to_500": 0.914
+  }
+}

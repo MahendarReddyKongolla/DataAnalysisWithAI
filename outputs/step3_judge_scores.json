@@ -1,0 +1,155 @@
+[
+  {
+    "item": "executive_summary",
+    "consistency": 5,
+    "completeness": 5,
+    "factual_alignment": 5,
+    "unsupported_claims": [],
+    "comment": "Accurate summary fully supported by the report text and data.",
+    "numbers_found": 1.0
+  },
+  {
+    "item": "section_0",
+    "consistency": 5,
+    "completeness": 5,
+    "factual_alignment": 5,
+    "unsupported_claims": [],
+    "comment": "Accurately summarizes the Press Release and Executive Board assessment.",
+    "numbers_found": 1.0
+  },
+  {
+    "item": "section_1",
+    "consistency": 5,
+    "completeness": 5,
+    "factual_alignment": 5,
+    "unsupported_claims": [],
+    "comment": "Correctly summarizes the background context, vulnerabilities, and EU association opportunities.",
+    "numbers_found": 1.0
+  },
+  {
+    "item": "section_2",
+    "consistency": 5,
+    "completeness": 5,
+    "factual_alignment": 5,
+    "unsupported_claims": [],
+    "comment": "All macro, labor, fiscal, and banking figures match the report text exactly.",
+    "numbers_found": 1.0
+  },
+  {
+    "item": "section_3",
+    "consistency": 5,
+    "completeness": 5,
+    "factual_alignment": 5,
+    "unsupported_claims": [],
+    "comment": "Accurate representation of medium-term projections, downside risks, and upside potentials.",
+    "numbers_found": 1.0
+  },
+  {
+    "item": "section_4",
+    "consistency": 5,
+    "completeness": 5,
+    "factual_alignment": 5,
+    "unsupported_claims": [],
+    "comment": "Faithful summary of staff recommendations regarding fiscal consolidation and debt management.",
+    "numbers_found": 1.0
+  },
+  {
+    "item": "section_5",
+    "consistency": 5,
+    "completeness": 5,
+    "factual_alignment": 5,
+    "unsupported_claims": [],
+    "comment": "Fully supported summary of financial sector reforms, vulnerabilities, and regulatory priorities.",
+    "numbers_found": 1.0
+  },
+  {
+    "item": "section_6",
+    "consistency": 5,
+    "completeness": 5,
+    "factual_alignment": 5,
+    "unsupported_claims": [],
+    "comment": "Accurate overview of structural reform priorities, labor market flexibility, and data improvements.",
+    "numbers_found": NaN
+  },
+  {
+    "item": "section_7",
+    "consistency": 5,
+    "completeness": 5,
+    "factual_alignment": 5,
+    "unsupported_claims": [],
+    "comment": "Concise and faithful summary of the staff appraisal conclusions.",
+    "numbers_found": 1.0
+  },
+  {
+    "item": "section_9",
+    "consistency": 5,
+    "completeness": 5,
+    "factual_alignment": 5,
+    "unsupported_claims": [],
+    "comment": "Accurately reflects the key findings of the Risk Assessment Matrix.",
+    "numbers_found": NaN
+  },
+  {
+    "item": "section_10",
+    "consistency": 5,
+    "completeness": 5,
+    "factual_alignment": 5,
+    "unsupported_claims": [],
+    "comment": "Correct summary of authorities' actions in response to past IMF policy advice.",
+    "numbers_found": NaN
+  },
+  {
+    "item": "section_11",
+    "consistency": 5,
+    "completeness": 5,
+    "factual_alignment": 5,
+    "unsupported_claims": [],
+    "comment": "Fully supported details regarding the external sector assessment and reserve metrics.",
+    "numbers_found": 1.0
+  },
+  {
+    "item": "section_12",
+    "consistency": 5,
+    "completeness": 5,
+    "factual_alignment": 5,
+    "unsupported_claims": [],
+    "comment": "Accurately reflects the debt sustainability analysis, risk levels, and GFN projections.",
+    "numbers_found": 1.0
+  },
+  {
+    "item": "section_13",
+    "consistency": 5,
+    "completeness": 5,
+    "factual_alignment": 5,
+    "unsupported_claims": [],
+    "comment": "Correct details on the Asset Management Company setup, securitization, and recovery performance.",
+    "numbers_found": 1.0
+  },
+  {
+    "item": "section_14",
+    "consistency": 5,
+    "completeness": 5,
+    "factual_alignment": 5,
+    "unsupported_claims": [],
+    "comment": "Accurate overview of VAT recommendations, rate proposals, and administrative strategy.",
+    "numbers_found": 1.0
+  },
+  {
+    "item": "section_15",
+    "consistency": 5,
+    "completeness": 5,
+    "factual_alignment": 5,
+    "unsupported_claims": [],
+    "comment": "Faithfully summarizes data adequacy and capacity development priorities.",
+    "numbers_found": NaN
+  },
+  {
+    "item": "section_16",
+    "consistency": 5,
+    "completeness": 5,
+    "factual_alignment": 5,
+    "unsupported_claims": [],
+    "comment": "Accurately captures the informational annex details on Fund relations and technical assistance.",
+    "numbers_found": 1.0
+  }
+]

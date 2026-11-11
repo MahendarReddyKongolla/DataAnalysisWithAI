@@ -1,0 +1,80 @@
+{
+  "keyword_patterns": {
+    "Inflation & Prices": "inflation|consumer prices?|\\bcpi\\b|price pressures?|deflator|energy prices?",
+    "Interest Rates & Credit": "interest rates?|policy rates?|\\becb\\b|\\bcredit\\b|\\blending\\b|\\bloans?\\b|financing conditions",
+    "Housing & Real Estate": "housing|house prices?|real estate|mortgages?|\\bproperty\\b|construction",
+    "Banking Capital & Liquidity": "\\bcapital\\b|capitali[sz]ation|liquidity|\\bbanks?\\b|banking|provisions?|\\bnpls?\\b|non-?performing",
+    "Sovereign Debt": "public debt|government debt|debt-to-gdp|sovereign|eurobond|fiscal consolidation|refinancing",
+    "Labor Market Dynamics": "labou?r market|unemployment|employment|wages?|cross-border workers|pensions?",
+    "Systemic Financial Risk": "systemic|financial stability|contagion|resolution|lender of last resort|\\bamc\\b|securiti[sz]ation|vulnerabilit"
+  },
+  "themes": [
+    {
+      "theme": "Inflation & Prices",
+      "mentions": 62,
+      "per_10k_words": 23.7,
+      "keyword_share_pct": 6.5,
+      "llm_share_pct": 8.0
+    },
+    {
+      "theme": "Interest Rates & Credit",
+      "mentions": 84,
+      "per_10k_words": 32.1,
+      "keyword_share_pct": 8.9,
+      "llm_share_pct": 0.0
+    },
+    {
+      "theme": "Housing & Real Estate",
+      "mentions": 36,
+      "per_10k_words": 13.8,
+      "keyword_share_pct": 3.8,
+      "llm_share_pct": 0.0
+    },
+    {
+      "theme": "Banking Capital & Liquidity",
+      "mentions": 394,
+      "per_10k_words": 150.7,
+      "keyword_share_pct": 41.6,
+      "llm_share_pct": 7.1
+    },
+    {
+      "theme": "Sovereign Debt",
+      "mentions": 123,
+      "per_10k_words": 47.1,
+      "keyword_share_pct": 13.0,
+      "llm_share_pct": 31.5
+    },
+    {
+      "theme": "Labor Market Dynamics",
+      "mentions": 173,
+      "per_10k_words": 66.2,
+      "keyword_share_pct": 18.2,
+      "llm_share_pct": 3.7
+    },
+    {
+      "theme": "Systemic Financial Risk",
+      "mentions": 76,
+      "per_10k_words": 29.1,
+      "keyword_share_pct": 8.0,
+      "llm_share_pct": 2.7
+    }
+  ],
+  "section_labels": {
+    "0": "Other",
+    "1": "Other",
+    "2": "Other",
+    "3": "Other",
+    "4": "Sovereign Debt",
+    "5": "Banking Capital & Liquidity",
+    "6": "Labor Market Dynamics",
+    "7": "Other",
+    "9": "Systemic Financial Risk",
+    "10": "Other",
+    "11": "Other",
+    "12": "Sovereign Debt",
+    "13": "Banking Capital & Liquidity",
+    "14": "Inflation & Prices",
+    "15": "Other",
+    "16": "Other"
+  }
+}
